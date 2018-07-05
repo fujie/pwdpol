@@ -1,0 +1,5 @@
+LIBRARY "pwdpol"
+EXPORTS
+	InitializeChangeNotify
+	PasswordFilter
+	PasswordChangeNotify
